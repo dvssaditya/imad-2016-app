@@ -17,7 +17,7 @@ app.get('/page-two', function (req, res){
     res.send('page two will be served soon donot worry');
 });
 
-app.get('/page three', function (req, res){
+app.get('/page-three', function (req, res){
     res.send('page three will br served soon');
 });
 
